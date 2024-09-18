@@ -1,1 +1,1 @@
-AI tool fjor prevention and filtering DDoS attack 
+AI tool for prevention and filtering DDoS attack 
